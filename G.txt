@@ -1,0 +1,4 @@
+S-> cSd T
+T-> FH
+F-> l e
+H-> b e

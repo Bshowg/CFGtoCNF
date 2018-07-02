@@ -1,0 +1,8 @@
+S-> SpT T
+T-> TmF F
+F-> rSl a b e
+#
+#p=+
+#m=*
+#r=(
+#l=)

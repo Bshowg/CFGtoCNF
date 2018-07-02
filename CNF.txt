@@ -1,0 +1,7 @@
+F -> l 
+H -> b 
+S -> ZX | FH | b | l 
+T -> FH | b | l 
+Y -> d 
+X -> SY 
+Z -> c 
