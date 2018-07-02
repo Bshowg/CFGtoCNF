@@ -12,3 +12,4 @@ Run the chomsky.py that will write the new grammar in CNF.txt
 
 If you want to check a string write it in expression.txt and the run PDA.py
 
+Write the string with each terminal separated with a space
